@@ -1,7 +1,10 @@
-# Journal club on Calcium ion kinectics on muscle physiology: A proposal for a paper reading list
-# **Daniel Mejía Raigosa** at Biophysics Group - Universidad de Antioquia;
-## **Version 1.0**
-## Feb 21, 2017
+% Journal club on Calcium ion kinectics on muscle physiology: A proposal for a paper reading list
+% **Daniel Mejía Raigosa** at Biophysics Group - Universidad de Antioquia;  **Version 1.0**
+% Feb 21, 2017
+
+<!-- Table of contents: Run pandoc with --toc option -->
+
+
 
 ## Motivation
 
@@ -80,8 +83,6 @@ Here are two lists, a *main list* and *complementary readings* list. The main li
    * pages:     275&ndash;306
    * complements reading 3
 <!-- Bibliography in Publish format -->
-
-## Rerences
 
  2. <div id="Calderon2014"></div> **J. Calder\'on, P. Bola\~nos and C. Caputo**. 
     The Excitation–contraction Coupling Mechanism in Skeletal Muscle,
