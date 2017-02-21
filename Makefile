@@ -18,3 +18,7 @@ README.md: lectures-list-proposal-gib_jc.do.txt
 	echo "Building README"
 	doconce format markdown $^ --encoding=utf-8 
 	mv lectures-list-proposal-gib_jc.md README.md
+
+GIB_Journal_Club_on_Ca_Kinetics.zip: docs/index.html lectures-list-proposal-gib_jc.pdf
+	cp -f lectures-list-proposal-gib_jc.pdf GIB_Journal_Club_on_Ca_Kinetics/
+	zip -r GIB_Journal_Club_on_Ca_Kinetics.zip GIB_Journal_Club_on_Ca_Kinetics/
