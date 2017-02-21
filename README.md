@@ -1,4 +1,4 @@
-% Journal club on Calcium ion kinectics on muscle physiology: A proposal for a paper reading list
+% Journal club on Calcium ion kinetics on muscle physiology: A proposal for a paper reading list
 % **Daniel Mejía Raigosa** at Biophysics Group - Universidad de Antioquia;  **Version 1.0**
 % Feb 21, 2017
 
