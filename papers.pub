@@ -1,0 +1,897 @@
+* articles
+** Parvalbumins and Muscle Relaxation: a Computer Simulation Study
+   key:       Gillis1982
+   author:    J.M. Gillis, D. Thomason, J. Lefèvre, R.H. Kretsinger
+   year:      1982
+   journal:   Journal of muscle research and cell motility
+   volume:    3
+   number:    4
+   pages:     377-398
+   doi:       10.1007/BF00712090
+   status:    published
+   entrytype: article
+** A General Procedure for Determining the Rate of Calcium Release From the Sarcoplasmic Reticulum in Skeletal Muscle Fibers
+   key:       Melzer1987
+   author:    W. Melzer, E. Rios, F. Schneider
+   year:      1987
+   journal:   Biophysical Journal
+   volume:    51
+   number:    6
+   pages:     849-863
+   doi:       10.1016/S0006-3495(87)83413-6
+   status:    published
+   entrytype: article
+** Indo-1 Binding to Protein in Permeabilized Ventricular Myocytes Alters Its Spectral and Ca Binding Properties
+   key:       Bers1992
+   author:    Leif Hove-Madsen, Donald M. Bers
+   year:      1992
+   journal:   Biophysical Journal
+   volume:    63
+   number:    1
+   pages:     89-97
+   doi:       10.1016/S0006-3495(92)81597-7
+   status:    published
+   entrytype: article
+** Resting Myoplasmic Free Calcium in Frog Skeletal Muscle Fibers Estimated With Fluo-3
+   key:       Harkins1993
+   author:    A.B. Harkins, Naogomi Kurebayashi, S.M. Baylor
+   year:      1993
+   journal:   Biophysical Journal
+   volume:    65
+   number:    2
+   pages:     865-881
+   doi:       10.1016/S0006-3495(93)81112-3
+   status:    published
+   entrytype: article
+** Properties of Tri- and Tetracarboxylate Ca$^{2+}$ Indicators in Frog Skeletal Muscle Fibers.
+   key:       Zhao1996
+   author:    Mingdi Zhao, S. Hollingworth, S.M. Baylor
+   year:      1996
+   journal:   Biophysical Journal
+   volume:    70
+   number:    2
+   pages:     896-916
+   doi:       10.1016/S0006-3495(96)79633-9
+   status:    published
+   entrytype: article
+** Seeing Is Believing! Imaging Ca$^{2+}$-Signaling Events in Living Cells.
+   key:       McGeown2010
+   author:    J. Graham McGeown
+   year:      2010
+   journal:   Experimental Physiology
+   volume:    95
+   number:    11
+   pages:     1049-1060
+   doi:       10.1113/expphysiol.2010.052456
+   status:    published
+   entrytype: article
+** Simultaneous Near Ultraviolet and Visible Excitation Confocal Microscopy of Calcium Transients in Xenopus Oocytes.
+   key:       Girard1994
+   author:    Steven Girard, David E. Clapham
+   year:      1994
+   journal:   Methods in cell biology
+   publisher: Academic Press.
+   volume:    40
+   pages:     263-284
+   status:    published
+   entrytype: article
+** On the Relationships Between Membrane Potential, Calcium Transient and Tension in Single Barnacle Muscle Fibres.
+   key:       Ashley1970
+   author:    C. C. Ashley, E. B. Ridgway
+   year:      1970
+   journal:   The Journal of Physiology
+   volume:    209
+   number:    1
+   pages:     105-130
+   url:       http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1396043/
+   status:    published
+   entrytype: article
+** Finite Element Model to Study Calcium Diffusion in a Neuron Cell Involving JRYR, JSERCA and JLeak
+   key:       Amrita2013
+   author:    Amrita Tripathi, Neeru Adlakha
+   year:      2013
+   journal:   Journal of Applied Mathematics \& Informatics
+   volume:    31
+   number:    5
+   pages:     695-709
+   status:    published
+   entrytype: article
+** {The Time-Course of Ca$^{2+}$ Exchange With Calmodulin, Troponin, Parvalbumin, and Myosin in Response to Transient Increases in Ca$^{2+}$}
+   key:       Robertson1981
+   author:    S. P. Robertson, J. D. Johnson, J. D. Potter
+   year:      1981
+   journal:   Biophysical Journal
+   volume:    34
+   number:    3
+   pages:     559--569
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0019395239\&partnerID=40\&md5=3eb2ab6ef058e9b0894442d76608b276
+   status:    published
+   address:   Dept. Pharmacol. Cell Biophys., Univ. Cincinnati Coll. Med., Cincinnati, Ohio 42567, United States
+   entrytype: article
+** {Calcium Homeostasis in Intact Lymphocytes: Cytoplasmic Free Calcium Monitored With a New, Intracellularly Trapped Fluorescent Indicator}
+   key:       Tsien1982
+   author:    R. Y. Tsien, T. Pozzan, T. J. Rink
+   year:      1982
+   journal:   The Journal of Cell Biology
+   publisher: The Rockefeller University Press
+   volume:    94
+   number:    2
+   pages:     325--334
+   url:       http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2112871\&tool=pmcentrez\&rendertype=abstract
+   status:    published
+   entrytype: article
+** {Sarcoplasmic Reticulum Calcium Release in Frog Skeletal Muscle Fibres Estimated From Arsenazo III Calcium Transients}
+   key:       Baylor1983
+   author:    S. M. Baylor, W. K. Chandler, M. W. Marshall
+   year:      1983
+   journal:   The Journal of Physiology
+   volume:    VOL. 344
+   pages:     625--666
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0020973068\&partnerID=40\&md5=bb479ea034f5844408a4799d208a1525
+   status:    published
+   address:   Department of Physiology, University of Pennsylvania, Philadelphia, PA 19104, United States
+   entrytype: article
+** {Model of Calcium Movements During Activation in the Sarcomere of Frog Skeletal Muscle}
+   key:       Cannell1984
+   author:    M.B. Cannell, D.G. Allen
+   year:      1984
+   journal:   Biophysical Journal
+   publisher: Elsevier
+   volume:    45
+   number:    5
+   pages:     913--925
+   doi:       10.1016/S0006-3495(84)84238-1
+   url:       http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1434964\&tool=pmcentrez\&rendertype=abstract
+   status:    published
+   entrytype: article
+   issn:      0006-3495
+   month:     May
+** {A New Generation of Ca$^{2+}$ Indicators With Greatly Improved Fluorescence Properties}
+   key:       Grynkiewicz1985
+   author:    G. Grynkiewicz, M. Poenie, R. Y. Tsien
+   year:      1985
+   journal:   The Journal of Biological Chemistry
+   publisher: ASBMB
+   volume:    260
+   number:    6
+   pages:     3440--3450
+   url:       http://www.ncbi.nlm.nih.gov/pubmed/3838314
+   status:    published
+   address:   Department of Physiology-Anatomy, University of California, Berkeley, CA 94720, United States
+   entrytype: article
+** {Model of Calcium Diffusion, Binding and Membrane Transport in the Sarcomere of Frog Skeletal Muscle.}
+   key:       Holly1989
+   author:    M. Holl\'{y}, J. Poledna
+   year:      1989
+   journal:   General physiology and biophysics
+   volume:    8
+   number:    6
+   pages:     539--553
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0024825220\&partnerID=40\&md5=739a04463ea8d4a932b2c6599035be0b
+   status:    published
+   address:   Centre of Physiological Sciences, Slovak Academy of Sciences, Bratislava, Czechoslovakia.
+   entrytype: article
+** {Fluorescent Indicators for Cytosolic Calcium Based on Rhodamine and Fluorescein Chromophores.}
+   key:         Minta1989
+   author:      A. Minta, J. P. Kao, R. Y. Tsien
+   year:        1989
+   journal:     The Journal of Biological Chemistry
+   institution: Department of Physiology-Anatomy, University of California, Berkeley 94720.
+   publisher:   ASBMB
+   volume:      264
+   number:      14
+   pages:       8171--8178
+   url:         http://www.ncbi.nlm.nih.gov/pubmed/2498308
+   status:      published
+   entrytype:   article
+** {The Low-Afflinity Ca$^{2+}$-Binding Sites in Cardiac/slow Skeletal Muscle Troponin C Perform Distinct Functions: Site I Alone Cannot Trigger Contraction}
+   key:       LeeSweeney1990
+   author:    H. {Lee Sweeney}, R. M. M. Brito, P. R. Rosevear, J. A. Putkey
+   year:      1990
+   journal:   Proceedings of the National Academy of Sciences of the United States of America
+   volume:    87
+   number:    24
+   pages:     9538--9542
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0025572631\&partnerID=40\&md5=7f3b94fb7e257cb49cdbf0fd7983026f
+   status:    published
+   address:   Department of Physiology, University of Pennsylvania, School of Medicine, Philadelphia, PA 19104-6085, United States
+   entrytype: article
+** {Time Courses of Calcium and Calcium-Bound Buffers Following Calcium Influx in a Model Cell}
+   key:       Nowycky1993
+   author:    Martha C. Nowycky, Martin J. Pinter
+   year:      1993
+   journal:   Biophysical Journal
+   volume:    64
+   number:    1
+   pages:     77--91
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0027530592\&partnerID=40\&md5=c3641c779b4fb5d9f9eec417f23f0a63
+   status:    published
+   address:   Dept of Anatomy and Neurobiology, Medical College of Pennsylvania, 3200 Henry Avenue, Philadelphia, PA 19129, United States
+   entrytype: article
+** {Effects of BAPTA on Force and Ca$^{2+}$ Transient During Isometric Contraction of Frog Muscle Fibers}
+   key:       Caputo1998
+   author:    C. Caputo, K. A. P. Edman
+   year:      1998
+   journal:   The American Journal Of Physiology
+   volume:    275
+   pages:     375--381
+   status:    published
+   address:   Department of Pharmacology, University of Lund, Solvegatan 10, S-22362 Lund, Sweden
+   entrytype: article
+** {Variation in Myoplasmic Ca$^{2+}$ Concentration During Contraction and Relaxation Studied by the Indicator Fluo-3 in Frog Muscle Fibres}
+   key:       Caputo1994
+   author:    C. Caputo, K. A. P. Edman, F. Lou, Y.-B. Sun
+   year:      1994
+   journal:   The Journal of Physiology
+   volume:    478
+   number:    1
+   pages:     137--148
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0028180638\&partnerID=40\&md5=0408fa94093e785b07daff5c0c6074ad
+   status:    published
+   address:   Department of Pharmacology, University of Lund, Solvegatan 10, S-22362 Lund, Sweden
+   entrytype: article
+** {Practical Aspects of Measuring [Ca$^{2+}$] With Fluorescent Indicators.}
+   key:       Kao1994
+   author:    J. P. Kao
+   year:      1994
+   journal:   Methods in cell biology
+   volume:    40
+   pages:     155--181
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0028317927\&partnerID=40\&md5=dcd6f759e0f8b04a3d35ea4a8ae7126f
+   status:    published
+   address:   Medical Biotechnology Center, University of Maryland School of Medicine, Baltimore 21201.
+   entrytype: article
+** {The Amplitude and Time Course of the Myoplasmic Free [Ca$^{2+}$] Transient in Fast-Twitch Fibers of Mouse Muscle}
+   key:         Hollingworth1996
+   author:      S. Hollingworth, M. Zhao, S. M. Baylor, Zhao Mingdi
+   year:        1996
+   journal:     The Journal of general physiology
+   institution: Department of Physiology, University of Pennsylvania School of Medicine, Philadelphia 19104-6085, USA.
+   publisher:   The Rockefeller University Press
+   volume:      108
+   number:      November
+   pages:       455--469
+   url:         http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2229350\&tool=pmcentrez\&rendertype=abstract
+   status:      published
+   entrytype:   article
+** {Decay of Calcium Transients After Electrical Stimulation in Rat Fast- and Slow-Twitch Skeletal Muscle Fibres.}
+   key:       Carroll1997
+   author:    S. L. Carroll, M. G. Klein, M. F. Schneider
+   year:      1997
+   journal:   The Journal of Physiology
+   volume:    501 ( Pt 3)
+   pages:     573--88
+   url:       http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1159459\&tool=pmcentrez\&rendertype=abstract
+   status:    published
+   entrytype: article
+   issn:      0022-3751
+   month:     Jun
+** {Model of Sarcomeric Ca$^{2+}$ Movements, Including ATP Ca$^{2+}$ Binding and Diffusion, During Activation of Frog Skeletal Muscle}
+   key:       Baylor1998
+   author:    S. M. Baylor, S. Hollingworth
+   year:      1998
+   journal:   The Journal of general physiology
+   volume:    112
+   number:    3
+   pages:     297--316
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0031595081\&partnerID=40\&md5=3927cb118a799c6c125638dd12184760
+   status:    published
+   address:   Department of Physiology, University of Pennsylvania, School of Medicine, Philadelphia, PA 19104-6085, United States
+   entrytype: article
+** {The Effect of Sarcomere Length on Triad Location in Intact Feline Caudofemoralis Muscle Fibres}
+   key:       Brown1998
+   author:    I. E. Brown, D. H. Kim, G. E. Loeb
+   year:      1998
+   journal:   Journal of muscle research and cell motility
+   volume:    19
+   number:    5
+   pages:     473--477
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0031852323\&partnerID=40\&md5=822daee775bde09869617d8ad1ad6f18
+   status:    published
+   address:   MRC Grp. in Sensory-Motor Neurosci., Department of Physiology, Queen's University, Kingston, Ont. K7L 3N6, Canada
+   entrytype: article
+** {Numerical Methods to Determine Calcium Release Flux From Calcium Transients in Muscle Cells}
+   key:       Timmer1998
+   author:    J. Timmer, T. M\"{u}ller, W. Melzer
+   year:      1998
+   journal:   Biophysical Journal
+   volume:    74
+   number:    4
+   pages:     1694--1707
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0344110505\&partnerID=40\&md5=c72069261e501967fea072af7163bba2
+   status:    published
+   address:   Fakult\"{a}t F\"{u}r Physik, Albert-Ludwigs-Universit\"{a}t, D-79104 Freiburg, Germany
+   entrytype: article
+** {Mathematical Modeling and Fluorescence Imaging to Study the Ca$^{2+}$ Turnover in Skinned Muscle Fibers}
+   key:       Uttenweiler1998
+   author:    D. Uttenweiler, C. Weber, R. H. A. Fink
+   year:      1998
+   journal:   Biophysical Journal
+   volume:    74
+   number:    4
+   pages:     1640--1653
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0031919160\&partnerID=40\&md5=f9835245a1db153c08159c432360b5e3
+   status:    published
+   address:   Ruprecht-Karls-Univ. Heidelberg, II Institute of Physiology, D-69120 Heidelberg, Germany
+   entrytype: article
+** {Fast Calcium Removal During Single Twitches in Amphibian Skeletal Muscle Fibres.}
+   key:         Caputo1999
+   author:      C. Caputo, P. Bola\~{n}os, A. L. Escobar
+   year:        1999
+   journal:     Journal of muscle research and cell motility
+   institution: Laboratorio de Biof\'{\i}sica del M\'{u}sculo, Centro de Biof\'{\i}sica y Bioqu\'{\i}mica, Instituto Venezolano de Investigaciones Cient\'{\i}ficas, IVIC, Caracas, Venezuela.
+   volume:      20
+   number:      5-6
+   pages:       555--567
+   status:      published
+   entrytype:   article
+** {Numerical Simulation of Ca$^{2+}$ 'sparks' in Skeletal Muscle}
+   key:       Jiang1999
+   author:    Y.-H. Jiang, M. G. Klein, M. F. Schneider
+   year:      1999
+   journal:   Biophysical Journal
+   volume:    77
+   number:    5
+   pages:     2333--2357
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0032706177\&partnerID=40\&md5=2fc728c026d25dec8e6b5ccfea20fbee
+   status:    published
+   address:   Dept. of Biochem. and Molec. Biology, Univ. of Maryland School of Medicine, Baltimore, MD 21201, United States
+   entrytype: article
+** {Measurement and Interpretation of Cytoplasmic [Ca$^{2+}$] Signals From Calcium-Indicator Dyes}
+   key:       Baylor2000
+   author:    S. M. Baylor, S. Hollingworth
+   year:      2000
+   journal:   News in Physiological Sciences
+   volume:    15
+   number:    1
+   pages:     19--26
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0034405591\&partnerID=40\&md5=84039683b8a681e03d722e100481857f
+   status:    published
+   address:   Department of Physiology, Univ. of Pennsylvania Sch. of Med., 3700 Hamilton Walk, Philadelphia, PA 19104-6085, United States
+   entrytype: article
+** {Complex Biology With No Parameters}
+   key:       Bailey2001
+   author:    J. E. Bailey
+   year:      2001
+   journal:   Nature Biotechnology
+   volume:    19
+   number:    6
+   pages:     503--504
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0034995375\&partnerID=40\&md5=521cc9989de072dfbd50cdbbbba50fab
+   status:    published
+   address:   Institute of Biotechnology, ETH Zurich, Swiss Federal Inst. of Technology, Zurich, Switzerland
+   entrytype: article
+** {Calcium Release in Skeletal Muscle: From K${}^{+}$ Contractures to Ca$^{2+}$ Sparks}
+   key:       Caputo2001
+   author:    C. Caputo
+   year:      2001
+   journal:   Journal of muscle research and cell motility
+   volume:    22
+   number:    6
+   pages:     485--504
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0035735887\&partnerID=40\&md5=67837f528ea44b511e6b0606b62a0046
+   status:    published
+   address:   Laboratorio Biofisica del Musculo, Centro de Biofisica y Bioquimica, Inst. Venezolano de Invest. Cie., Caracas, Venezuela
+   entrytype: article
+** {Comparison of Simulated and Measured Calcium Sparks in Intact Skeletal Muscle Fibers of the Frog}
+   key:       Baylor2002
+   author:    S. M. Baylor, S. Hollingworth, W. K. Chandler
+   year:      2002
+   journal:   The Journal of general physiology
+   volume:    120
+   number:    3
+   pages:     349--368
+   doi:       10.1085/jgp.20028620
+   url:       http://jgp.rupress.org/content/120/3/349.abstract
+   status:    published
+   entrytype: article
+   month:     Sep
+** {Polycarboxylate Fluorescent Indicators As Ion Concentration Probes in Biological Systems}
+   key:       Katerinopoulos2002
+   author:    H. E. Katerinopoulos, E. Foukaraki
+   year:      2002
+   journal:   Current Medicinal Chemistry
+   volume:    9
+   number:    2
+   pages:     275--306
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0036231960\&partnerID=40\&md5=c5eab7f5a7196f1466d83b0e813b5880
+   status:    published
+   address:   Organic Chemistry Laboratory, Department of Chemistry, University of Crete, Heraklion, Crete 71 409, Greece
+   entrytype: article
+** {Sarcoplasmic Reticulum Calcium Release Compared in Slow-Twitch and Fast-Twitch Fibres of Mouse Muscle.}
+   key:         Baylor2003
+   author:      S. M. Baylor, S. Hollingworth
+   year:        2003
+   journal:     The Journal of Physiology
+   institution: Department of Physiology, University of Pennsylvania School of Medicine, Philadelphia, PA 19104-6085, USA. baylor@mail.med.upenn.edu
+   publisher:   Blackwell Science Inc
+   volume:      551
+   number:      Pt 1
+   pages:       125--138
+   url:         http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2343150\&tool=pmcentrez\&rendertype=abstract
+   status:      published
+   entrytype:   article
+** {Simulation of Calcium Sparks in Cut Skeletal Muscle Fibers of the Frog}
+   key:       Chandler2003
+   author:    W. K. Chandler, S. Hollingworth, S. M. Baylor
+   year:      2003
+   journal:   The Journal of general physiology
+   volume:    121
+   number:    4
+   pages:     311--324
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0037388703\&partnerID=40\&md5=caead623fc06f92850f3952d11a9de82
+   status:    published
+   address:   Department of Molecular Physiology, Yale University School of Medicine, New Haven, CT 06520, United States
+   entrytype: article
+** {Comparison Between the Predictions of Diffusion-Reaction Models and Localized Ca$^{2+}$ Transients in Amphibian Skeletal Muscle Fibers}
+   key:       Novo2003
+   author:    D. Novo, M. DiFranco, J. L. Vergara
+   year:      2003
+   journal:   Biophysical Journal
+   volume:    85
+   number:    2
+   pages:     1080--1097
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-0041843697\&partnerID=40\&md5=cca242359bac75d4e1c1660f1c2edbf9
+   status:    published
+   address:   Department of Physiology, UCLA School of Medicine, Los Angeles, CA, United States
+   entrytype: article
+** {Calcium Sparks in Skeletal Muscle Fibers.}
+   key:         Baylor2005
+   author:      Stephen M. Baylor
+   year:        2005
+   journal:     Cell Calcium
+   institution: Department of Physiology, University of Pennsylvania School of Medicine, Philadelphia, 19104-6085, USA. baylor@mail.med.upenn.edu
+   volume:      37
+   number:      6
+   pages:       513--530
+   url:         http://www.ncbi.nlm.nih.gov/pubmed/15862343
+   status:      published
+   entrytype:   article
+** {Calcium Release Domains in Mammalian Skeletal Muscle Studied With Two-Photon Imaging and Spot Detection Techniques}
+   key:       Gomez2006
+   author:    J. G\'{o}mez, P. \~{N}eco, M. DiFranco, J. L. Vergara
+   year:      2006
+   journal:   The Journal of general physiology
+   volume:    127
+   number:    6
+   pages:     623--637
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-33744478373\&partnerID=40\&md5=d5f35f0d84306ec4cde9f593d571db62
+   status:    published
+   address:   Department of Physiology, University of California, Los Angeles, School of Medicine, Los Angeles, CA 90095, United States
+   entrytype: article
+** {Simulation of Ca$^{2+}$ Movements Within the Sarcomere of Fast-Twitch Mouse Fibers Stimulated by Action Potentials}
+   key:       Baylor2007
+   author:    S. M. Baylor, S. Hollingworth
+   year:      2007
+   journal:   The Journal of general physiology
+   volume:    130
+   number:    3
+   pages:     283--302
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-34548843149\&partnerID=40\&md5=6a4435a72d0916e737d9a51cbcb8a32a
+   status:    published
+   address:   Department of Physiology, University of Pennsylvania School of Medicine, Philadelphia, PA 19104, United States
+   entrytype: article
+** {Multi-Scale Computational Modelling in Biology and Physiology}
+   key:       Southern2008
+   author:    J. Southern, J. Pitt-Francis, J. Whiteley, D. Stokeley, H. Kobashi, R. Nobes, Y. Kadooka, D. Gavaghan
+   year:      2008
+   journal:   Progress in Biophysics and Molecular Biology
+   volume:    96
+   number:    1-3
+   pages:     60--89
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-43049085575\&partnerID=40\&md5=63b4470d8bcc41bad4c33b98cb3a4827
+   status:    published
+   address:   Fujitsu Laboratories, Europe Ltd, Hayes Park Central, Hayes End Road, Hayes, Middlesex UB4 8FE, United Kingdom
+   entrytype: article
+** {Excitation-Contraction Coupling in Skeletal Muscle: Questions Remaining After 50 Years of Research}
+   key:       Calderon-Velez2009
+   author:    J. C. Calder\'{o}n-V\'{e}lez, L. C. Figueroa-Gordon
+   year:      2009
+   journal:   Biomedica
+   volume:    29
+   number:    1
+   pages:     140--180
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-70350449094\&partnerID=40\&md5=86f20673ce87070f5c0466c7d576581b
+   status:    published
+   address:   Departamento de Fisiolog\'{\i}a y Bioqu\'{\i}mica, Grupo de Fisiolog\'{\i}a del Ejercicio, Facultad de Medicina, Universidad de Antioquia, Medell\'{\i}n, Colombia
+   entrytype: article
+** {Different Fibre Populations Distinguished by Their Calcium Transient Characteristics in Enzymatically Dissociated Murine Flexor Digitorum Brevis and Soleus Muscles}
+   key:       Calderon2009
+   author:    J. C. Calder\'{o}n, P. Bola\~{n}os, S. H. Torres, G. Rodr\'{\i}guez-Arroyo, C. Caputo
+   year:      2009
+   journal:   Journal of muscle research and cell motility
+   volume:    30
+   number:    3-4
+   pages:     125--137
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-69549105810\&partnerID=40\&md5=b4d1d706f4a460725a39b427daeb837c
+   status:    published
+   address:   Laboratorio de Fisiolog\'{\i}a Celular, Centro de Biof\'{\i}sica y Bioqu\'{\i}mica, Instituto Venezolano de Investigaciones Cient\'{\i}ficas (IVIC), Apartado 20632, Caracas 1020A, Venezuela
+   entrytype: article
+** {El Acoplamiento Excitaci\'{o}n-Contracci\'{o}n En El M\'{u}sculo Esquel\'{e}tico: Preguntas Por Responder a Pesar De 50 A\~{n}os De Estudio}
+   key:       Calderon2009a
+   author:    Juan C. Calder\'{o}n, Lourdes Carolina Figueroa-gordon
+   year:      2009
+   journal:   Biomedica
+   volume:    29
+   number:    3
+   pages:     140--60
+   status:    published
+   entrytype: article
+** {Low-Affinity Ca$^{2+}$ Indicators Compared in Measurements of Skeletal Muscle Ca$^{2+}$ Transients}
+   key:       Hollingworth2009
+   author:    S. Hollingworth, K. R. Gee, S. M. Baylor
+   year:      2009
+   journal:   Biophysical Journal
+   volume:    97
+   number:    7
+   pages:     1864--1872
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-70349971387\&partnerID=40\&md5=b317aeea71be904e45cfbf6e963d9b02
+   status:    published
+   address:   Department of Physiology, University of Pennsylvania School of Medicine, Philadelphia, PA, United States
+   entrytype: article
+** {Systems Biology: the Elements and Principles of Life}
+   key:       Westerhoff2009
+   author:    H. V. Westerhoff, C. Winder, H. Messiha, E. Simeonidis, M. Adamczyk, M. Verma, F. J. Bruggeman, W. Dunn
+   year:      2009
+   journal:   FEBS Letters
+   volume:    583
+   number:    24
+   pages:     3882--3890
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-71149097660\&partnerID=40\&md5=25a9c05bedae06c672b182494d90895c
+   status:    published
+   address:   Manchester Centre for Integrative Systems Biology, The University of Manchester, United Kingdom
+   entrytype: article
+** {Spatially Adaptive Stochastic Numerical Methods for Intrinsic Fluctuations in Reaction-Diffusion Systems}
+   key:       Atzberger2010
+   author:    P. J. Atzberger
+   year:      2010
+   journal:   Journal of Computational Physics
+   volume:    229
+   number:    9
+   pages:     3474--3501
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-77949424098\&partnerID=40\&md5=73710b4e76f6afb8b86c0c6dbfd06eb4
+   status:    published
+   address:   University of California, Department of Mathematics, Santa Barbara, CA 93106, United States
+   entrytype: article
+** {Numerical Analysis of Ca$^{2+}$ Signaling in Rat Ventricular Myocytes With Realistic Transverse-Axial Tubular Geometry and Inhibited Sarcoplasmic Reticulum}
+   key:       Cheng2010
+   author:    Y. Cheng, Z. Yu, M. Hoshijima, M. J. Holst, A. D. McCulloch, J. A. McCammon, A. P. Michailova
+   year:      2010
+   journal:   PLoS Computational Biology
+   volume:    6
+   number:    10
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-78349235390\&partnerID=40\&md5=4976f11c85e6681c461268885cf17411
+   status:    published
+   address:   Department of Bioengineering, University of California San Diego, La Jolla, CA, United States
+   entrytype: article
+** {Myosin Heavy Chain Isoform Composition and Ca$^{2+}$ Transients in Fibres From Enzymatically Dissociated Murine Soleus and Extensor Digitorum Longus Muscles}
+   key:       Calderon2010
+   author:    J. C. Calder\'{o}n, P. Bola\~{n}os, C. Caputo
+   year:      2010
+   journal:   The Journal of Physiology
+   volume:    588
+   number:    1
+   pages:     267--279
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-73549102427\&partnerID=40\&md5=604675cc068c4456881628a1a2dbf84e
+   status:    published
+   address:   Laboratory of Cellular Physiology, Centre of Biophysics and Biochemistry, Venezuelan Institute for Scientific Research (IVIC), Caracas, Venezuela
+   entrytype: article
+   issn:      00223751 (ISSN)
+** {Practical Aspects of Measuring Intracellular Calcium Signals With Fluorescent Indicators.}
+   key:       Kao2010
+   author:    Joseph P. Y. Kao, Gong Li, Darryl A. Auston
+   year:      2010
+   journal:   Methods in cell biology
+   volume:    99
+   pages:     113--52
+   doi:       10.1016/B978-0-12-374841-6.00005-0
+   url:       http://www.sciencedirect.com/science/article/pii/B9780123748416000050
+   status:    published
+   entrytype: article
+   isbn:      9780123748416
+   issn:      0091-679X
+   month:     Jan
+** {Steady State Detection of Chemical Reaction Networks Using a Simplified Analytical Method}
+   key:       Martinez-Forero2010
+   author:    I. Mart\'{\i}nez-Forero, A. Pel\'{a}ez-L\'{o}pez, P. Villoslada
+   year:      2010
+   journal:   PLoS ONE
+   volume:    5
+   number:    6
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-77956195976\&partnerID=40\&md5=e44e15e96ecacf4e531da2f12ddebc2e
+   status:    published
+   address:   Department of Physics and Applied Mathematics, University of Navarra, Pamplona, Spain
+   entrytype: article
+** {Models of Cardiac Excitation-Contraction Coupling in Ventricular Myocytes}
+   key:       Williams2010
+   author:    G. S. B. Williams, G. D. Smith, E. A. Sobie, M. S. Jafri
+   year:      2010
+   journal:   Mathematical Biosciences
+   volume:    226
+   number:    1
+   pages:     1--15
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-77953123168\&partnerID=40\&md5=014da6fafaf3ab58c2c9ab173e3f8fb1
+   status:    published
+   address:   The Department of Bionformatics and Computational Biology, George Mason University, United States
+   entrytype: article
+** {A Solvable Model for the Diffusion and Reaction of Neurotransmitters in a Synaptic Junction}
+   key:       Barreda2011
+   author:    J. L. Barreda, H.-X. Zhou
+   year:      2011
+   journal:   BMC Biophysics
+   volume:    4
+   number:    1
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-80052915384\&partnerID=40\&md5=cff9ffa175beb039fe60184689fa999a
+   status:    published
+   address:   Department of Physics and Institute of Molecular Biophysics, Tallahassee, FL 32306, United States
+   entrytype: article
+** {Calcium Indicators and Calcium Signalling in Skeletal Muscle Fibres During Excitation-Contraction Coupling.}
+   key:       Baylor2011
+   author:    Stephen M. Baylor, Stephen Hollingworth
+   year:      2011
+   journal:   Progress in Biophysics and Molecular Biology
+   publisher: Elsevier Ltd
+   volume:    105
+   number:    3
+   pages:     162--79
+   doi:       10.1016/j.pbiomolbio.2010.06.001
+   url:       http://www.sciencedirect.com/science/article/pii/S0079610710000386 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2974769\&tool=pmcentrez\&rendertype=abstract
+   status:    published
+   entrytype: article
+   issn:      1873-1732
+   month:     May
+** {Kinetic Changes in Tetanic Ca$^{2+}$ Transients in Enzymatically Dissociated Muscle Fibres Under Repetitive Stimulation.}
+   key:       Calderon2011
+   author:    Juan C. Calder\'{o}n, Pura Bola\~{n}os, Carlo Caputo
+   year:      2011
+   journal:   The Journal of Physiology
+   volume:    589
+   number:    Pt 21
+   pages:     5269--83
+   doi:       10.1113/jphysiol.2011.213314
+   url:       http://www.ncbi.nlm.nih.gov/pubmed/21878526
+   status:    published
+   entrytype: article
+   issn:      1469-7793
+   month:     Nov
+** {Design Principles for Robust Biochemical Reaction Networks: What Works, What Cannot Work, and What Might Almost Work}
+   key:       Shinar2011
+   author:    G. Shinar, M. Feinberg
+   year:      2011
+   journal:   Mathematical Biosciences
+   volume:    231
+   number:    1
+   pages:     39--48
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-79954617424\&partnerID=40\&md5=f85a954fd65fa8020b7796f1934d46c3
+   status:    published
+   address:   Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 76100, Israel
+   entrytype: article
+** {Intracellular Calcium Movements During Excitation-Contraction Coupling in Mammalian Slow-Twitch and Fast-Twitch Muscle Fibers.}
+   key:       Baylor2012
+   author:    Stephen M. Baylor, Stephen Hollingworth
+   year:      2012
+   journal:   The Journal of general physiology
+   volume:    139
+   number:    4
+   pages:     261--72
+   doi:       10.1085/jgp.201210773
+   url:       http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3315149\&tool=pmcentrez\&rendertype=abstract
+   status:    published
+   entrytype: article
+   issn:      15407748
+** {Algebraic Stabilization of Explicit Numerical Integration for Extremely Stiff Reaction Networks}
+   key:       Guidry2012
+   author:    M. Guidry
+   year:      2012
+   journal:   Journal of Computational Physics
+   volume:    231
+   number:    16
+   pages:     5266--5288
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84862256775\&partnerID=40\&md5=1852588b6160ff44179b4d3006d07c4f
+   status:    published
+   address:   Department of Physics and Astronomy, University of Tennessee, Knoxville, TN 37996-1200, United States
+   entrytype: article
+** {Measurement and Simulation of Myoplasmic Calcium Transients in Mouse Slow-Twitch Muscle Fibres.}
+   key:       Hollingworth2012
+   author:    Stephen Hollingworth, Michele M. Kim, Stephen M. Baylor
+   year:      2012
+   journal:   The Journal of Physiology
+   volume:    590
+   number:    Pt 3
+   pages:     575--94
+   doi:       10.1113/jphysiol.2011.220780
+   url:       http://www.ncbi.nlm.nih.gov/pubmed/22124146
+   status:    published
+   entrytype: article
+   issn:      1469-7793
+   month:     Feb
+** {Concordant Chemical Reaction Networks}
+   key:       Shinar2012
+   author:    G. Shinar, M. Feinberg
+   year:      2012
+   journal:   Mathematical Biosciences
+   volume:    240
+   number:    2
+   pages:     92--113
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84867854824\&partnerID=40\&md5=afcda7572cba366dcd63a69f06fe7306
+   status:    published
+   address:   Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 76100, Israel
+   entrytype: article
+** {Theoretical Aspects of Systems Biology.}
+   key:       Bizzarri2013
+   author:    Mariano Bizzarri, Alessandro Palombo, Alessandra Cucina
+   year:      2013
+   journal:   Progress in Biophysics and Molecular Biology
+   publisher: Elsevier Ltd
+   volume:    112
+   number:    1-2
+   pages:     33--43
+   doi:       10.1016/j.pbiomolbio.2013.03.019
+   url:       http://www.ncbi.nlm.nih.gov/pubmed/23562476
+   status:    published
+   entrytype: article
+   issn:      18731732
+** {Comparison of Myoplasmic Calcium Movements During Excitation-Contraction Coupling in Frog Twitch and Mouse Fast-Twitch Muscle Fibers}
+   key:       Hollingworth2013
+   author:    S. Hollingworth, S. M. Baylor
+   year:      2013
+   journal:   The Journal of general physiology
+   volume:    141
+   number:    5
+   pages:     567--583
+   doi:       10.1085/jgp.201310961
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84878595296\&partnerID=40\&md5=293d40d9da2bd951d12a558260ca23ea
+   status:    published
+   address:   Department of Physiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States
+   entrytype: article
+** {Modelling, Abstraction, and Computation in Systems Biology: a View From Computer Science}
+   key:       Melham2013
+   author:    T. Melham
+   year:      2013
+   journal:   Progress in Biophysics and Molecular Biology
+   volume:    111
+   number:    2-3
+   pages:     129--136
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84878156120\&partnerID=40\&md5=db5146d770ea0571b461f7fdf04f8354
+   status:    published
+   address:   Department of Computer Science, University of Oxford, Wolfson Building, Parks Road, Oxford OX1 3QD, United Kingdom
+   entrytype: article
+** {The Excitation–contraction Coupling Mechanism in Skeletal Muscle}
+   key:       Calderon2014
+   author:    JuanC. Calder\'{o}n, Pura Bola\~{n}os, Carlo Caputo
+   year:      2014
+   journal:   Biophysical Reviews
+   publisher: Springer Berlin Heidelberg
+   volume:    6
+   number:    1
+   pages:     133--160
+   doi:       10.1007/s12551-013-0135-x
+   url:       http://dx.doi.org/10.1007/s12551-013-0135-x
+   status:    published
+   entrytype: article
+   issn:      1867-2450
+   language:  English
+** {Intracellular Calcium Movements During Relaxation and Recovery of Superfast Muscle Fibers of the Toadfish Swimbladder}
+   key:       Nelson2014
+   author:    F. E. Nelson, S. Hollingworth, L. C. Rome, S. M. Baylor
+   year:      2014
+   journal:   The Journal of general physiology
+   volume:    143
+   number:    5
+   pages:     605--620
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84899561650\&partnerID=40\&md5=5dc14542f4f7b89be1a1a4cb7e9c30d0
+   status:    published
+   address:   Department of Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, United States
+   entrytype: article
+* books
+** Numerical Analysis
+   key:       Burden2001
+   author:    Richard L. Burden, J. Douglas Faires
+   year:      2001
+   publisher: PWS-Kent Pub Co.
+   status:    published
+   edition:   7th
+   entrytype: book
+** Elements of Scientific Computing
+   key:       Tveito2010
+   author:    Aslak Tveito, Hans Petter Langtangen, Bjørn Frederik Nielsen, Xing Cai
+   year:      2010
+   publisher: Springer
+   status:    published
+   entrytype: book
+   isbn:      978-3-642-11298-0
+** An Introduction to Nonlinear Partial Differential Equations
+   key:       Logan2008
+   author:    John David Logan
+   year:      2008
+   publisher: John Wiley and Sons
+   status:    published
+   edition:   2nd
+   entrytype: book
+   isbn:      978-0-470-22595-0
+** Mathematical Methods for Physicist
+   key:       Arfken2005
+   author:    George B. Arfken, Hans J. Weber
+   year:      2005
+   publisher: Elsevier Academic Press
+   status:    published
+   edition:   6th
+   entrytype: book
+   isbn:      0-12-088584-0
+** The Mathematics of Diffusion
+   key:       CrankJ1975
+   author:    John Crank
+   year:      1975
+   publisher: Oxford University Press
+   status:    published
+   edition:   2nd
+   entrytype: book
+   isbn:      0-19-853344-6
+** Fisiolog\'{\i}a Humana La Base De La Medicina
+   key:       FisiologiaBM
+   author:    Gillian Pocock, Christopher D. Richards
+   year:      2005
+   publisher: Oxford University Press
+   status:    published
+   edition:   1st
+   entrytype: book
+   isbn:      0-19-858526-8
+** Nerve and Muscle
+   key:       Keynes2011
+   author:    Richard D. Keynes, David J. Aidley, Christopher L.-H. Huang
+   year:      2011
+   publisher: Cambridge University Press
+   url:       http://dx.doi.org/10.1017/CBO9780511973932
+   status:    published
+   edition:   4th
+   entrytype: book
+   isbn:      9780511973932
+   note:      Cambridge Books Online
+** {Compendio Hist\'{o}rico De Fisiolog\'{\i}a Muscular}
+   key:       Caputo2011
+   author:    Carlo Caputo
+   year:      2011
+   publisher: Academia Venezolana de Ciencias Fisicas y Matematicas
+   url:       http://www.acfiman.org/site/publicaciones/colecciones/coleccion-de-divulgacion-cientifica-y-tecnologica/425-compendio-historico-de-fisiologia-muscular.html
+   status:    published
+   address:   Caracas, Venezuela
+   edition:   1st
+   entrytype: book
+   isbn:      978-980-6195-20-2
+* misc
+** Calcium Calibration Buffer Kits: Product Description
+   key:          CalibrationKits
+   author:       Molecular-Probes
+   year:         2001
+   url:          \url{http://probesqa.invitrogen.com/media/pis/mp03008.pdf}
+   status:       published
+   entrytype:    misc
+   howpublished: \url{http://probesqa.invitrogen.com/media/pis/mp03008.pdf}
+   note:         Also available in the url \url{http://www.mobitec.de/probes/docs/media/pis/mp03008.pdf}
+** Chemical Reaction Networks for \textit{in Silico} Biologists
+   key:          Gunawardena2003
+   author:       Jeremy Gunawardena
+   year:         2003
+   url:          \url{http://vcp.med.harvard.edu/papers.html}
+   status:       published
+   entrytype:    misc
+   howpublished: \url{http://vcp.med.harvard.edu/papers/crnt.pdf}
+   note:         Public release of preprint on the author's official web page. Last accessed on March 2015.
+** Lectures on Chemical Reaction Networks
+   key:          Feinberg1980
+   author:       Marting Feinberg
+   year:         1980
+   url:          \url{http://www.crnt.osu.edu/LecturesOnReactionNetworks}
+   status:       published
+   entrytype:    misc
+   howpublished: \url{http://www.crnt.osu.edu/LecturesOnReactionNetworks}
+   note:         Public release of scanned copies of typewritten versions of 4½ out of 9 lectures that Dr. Martin Feinberg gave at the Mathematics Research Center of the University of Wisconsin-Madison in the autumn of 1979.
+** {Exact Difference Schemes for a Two-Dimensional Convection-Diffusion-Reaction Equation}
+   key:       Lapinska-Chrzczonowicz2014
+   author:    M. Lapinska-Chrzczonowicz, P. Matus
+   year:      2014
+   booktitle: Computers and Mathematics with Applications
+   url:       http://www.scopus.com/inward/record.url?eid=2-s2.0-84894519744\&partnerID=40\&md5=3b0d3ae6bd52afb94ca2b4517af353df
+   status:    published
+   address:   Institute of Mathematics and Computer Science, The John Paul II Catholic University of Lublin, Al. Racławickie 14, 20-950 Lublin, Poland
+   entrytype: misc
