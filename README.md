@@ -81,6 +81,8 @@ Here are two lists, a *main list* and *complementary readings* list. The main li
    * complements reading 3
 <!-- Bibliography in Publish format -->
 
+## Rerences
+
  2. <div id="Calderon2014"></div> **J. Calder\'on, P. Bola\~nos and C. Caputo**. 
     The Excitation–contraction Coupling Mechanism in Skeletal Muscle,
     *Biophysical Reviews*,
